@@ -1,0 +1,9 @@
+.block{
+  padding: 50px 50px 50px 50px;
+  height: 100%;
+}
+.block__bg{
+  height: 100%;
+  border-radius: 10px;
+  background: url(../img/flower.jpg) 50% 50% no-repeat, linear-gradient(blue,green);
+}
